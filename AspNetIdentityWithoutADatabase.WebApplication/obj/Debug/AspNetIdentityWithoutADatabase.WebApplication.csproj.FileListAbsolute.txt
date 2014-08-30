@@ -35,3 +35,4 @@ C:\development\ASP.NET-Identity-Without-a-Database\AspNetIdentityWithoutADatabas
 C:\development\ASP.NET-Identity-Without-a-Database\AspNetIdentityWithoutADatabase.WebApplication\bin\AspNetIdentityWithoutADatabase.WebApplication.dll.config
 C:\development\ASP.NET-Identity-Without-a-Database\AspNetIdentityWithoutADatabase.WebApplication\bin\AspNetIdentityWithoutADatabase.WebApplication.dll
 C:\development\ASP.NET-Identity-Without-a-Database\AspNetIdentityWithoutADatabase.WebApplication\bin\AspNetIdentityWithoutADatabase.WebApplication.pdb
+C:\development\ASP.NET-Identity-Without-a-Database\AspNetIdentityWithoutADatabase.WebApplication\obj\Debug\AspNetIdentityWithoutADatabase.WebApplication.csprojResolveAssemblyReference.cache

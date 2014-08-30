@@ -17,7 +17,7 @@ namespace AspNetIdentityWithoutADatabase.WebApplication.Models
                 {
                     if (userName == "username" && password == "password")
                     {
-                        return new ApplicationUser { UserName = "UsernameHere" };
+                        return new ApplicationUser { Id="NeedsAnId", UserName = "UsernameHere" };
                     }
                     return null;
                 });
